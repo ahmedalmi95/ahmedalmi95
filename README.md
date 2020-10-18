@@ -1,16 +1,15 @@
 ### Hi there 👋
+# Hola!:wave: Mucho Gusto.:blush:
 
-<!--
-**ahmedalmi95/ahmedalmi95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi i'm Kelechi, a Project Manager with Finance background & love for anything Data or Tech. Open source documentation & translation contributor, working to use data for good, big team player. Python is my first language, loving Markdown too. Igbo native, cartoon freak, chocolate, good food and karaoke.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left"> 
+  <h3> 👨🏻‍💻 About Me </h3>
+
+  - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+  - 🎓 &nbsp; Studying Computer Science and Engineering.
+  - 💼 &nbsp; I’m currently working on Full Stack Development projects.
+  - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
+  - ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.  
+</div> 
