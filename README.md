@@ -15,8 +15,8 @@ Find a chance to work in an open and collaborative environment, receive and give
 </div> 
 
 ![age](https://img.shields.io/badge/age-25-blue)
-![focus](https://img.shields.io/badge/focus-Front-end-brightgreen)
-![living](https://img.shields.io/badge/living-Palestine - Gaza -3c9)
+![focus](https://img.shields.io/badge/focus-Frontend-brightgreen)
+![living](https://img.shields.io/badge/living-Palestine-3c9)
 ![visitors](https://windard-visitor-badge.glitch.me/badge?page_id=windard.github.profile)
 
 <p align="center">
