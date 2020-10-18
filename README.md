@@ -29,7 +29,5 @@ Find a chance to work in an open and collaborative environment, receive and give
   <a href="https://www.instagram.com/ahmed_almi" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/instagram-logo-png-transparent-background-hd-3.png" height="30" width="30"></a>
   <a href="https://dev.to/ahmedalalmi" alt="dev.to"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/download.png" height="30" width="30"></a>
     <a href="mailto:ahmedalmi95@gmail.com" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a>
-  <a target="_blank" href="https://api.whatsapp.com/send?phone=5584999828379">
-  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
-</a>
+     <a href="https://api.whatsapp.com/send?phone=+970599825791" alt="Whatsapp"><img src="https://i.pinimg.com/originals/b3/dd/83/b3dd835904f90189f282cd5ed1cbaaba.png" height="30" width="30"></a>
 </p>
