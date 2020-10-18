@@ -14,6 +14,8 @@ Find a chance to work in an open and collaborative environment, receive and give
   - 🌱 &nbsp; Keep Learning about Backend Architectures and Frontend Developement. 
 </div> 
 
+[![Windard's github stats](https://github-readme-stats.vercel.app/api?username=windard&show_icons=true)](https://github.com/windard)
+
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
