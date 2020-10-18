@@ -19,7 +19,7 @@ Find a chance to work in an open and collaborative environment, receive and give
 ![living](https://img.shields.io/badge/living-Palestine-3c9)
 
 
-<p align="center">
+
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
   <p align="center">
@@ -29,6 +29,4 @@ Find a chance to work in an open and collaborative environment, receive and give
   <a href="https://www.instagram.com/ahmed_almi" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/instagram-logo-png-transparent-background-hd-3.png" height="30" width="30"></a>
   <a href="https://dev.to/ahmedalalmi" alt="dev.to"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/download.png" height="30" width="30"></a>
     <a href="mailto:ahmedalmi95@gmail.com" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a>
-  </p>
-
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5581984434580&text=Hi!)](https://api.whatsapp.com/send?phone=5581984434580&text=Hi!)
