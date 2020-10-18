@@ -30,6 +30,5 @@ Find a chance to work in an open and collaborative environment, receive and give
   <a href="https://dev.to/ahmedalalmi" alt="dev.to"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/download.png" height="30" width="30"></a>
     <a href="mailto:ahmedalmi95@gmail.com" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a>
   </p>
-  ## Welton Felix
 
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5581984434580&text=Hi!)](https://api.whatsapp.com/send?phone=5581984434580&text=Hi!)
+[![Whatsapp](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5581984434580&text=Hi!)](https://api.whatsapp.com/send?phone=5581984434580&text=Hi!)
