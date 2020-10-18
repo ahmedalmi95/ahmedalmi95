@@ -1,7 +1,7 @@
 
 # Hello!:wave:
 
-My name is Ahmed,I'm looking to invest my time and energy in your right company or project, and to be a critical part of a growing company, working on a cross-functional team to implement best practices in technology, architecture, and process.
+My name is Ahmed, I'm looking to invest my time and energy in your right company or project, and to be a critical part of a growing company, working on a cross-functional team to implement best practices in technology, architecture, and process.
 Find a chance to work in an open and collaborative environment, receive and give hands-on mentorship, and have opportunities to grow and accelerate my career.
 
 
