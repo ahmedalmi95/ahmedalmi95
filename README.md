@@ -14,7 +14,10 @@ Find a chance to work in an open and collaborative environment, receive and give
   - 🌱 &nbsp; Keep Learning about Backend Architectures and Frontend Developement. 
 </div> 
 
-[![Windard's github stats](https://github-readme-stats.vercel.app/api?username=windard&show_icons=true)](https://github.com/windard)
+![age](https://img.shields.io/badge/age-25-blue)
+![focus](https://img.shields.io/badge/focus-Front-end-brightgreen)
+![living](https://img.shields.io/badge/living-Palestine - Gaza -3c9)
+![visitors](https://windard-visitor-badge.glitch.me/badge?page_id=windard.github.profile)
 
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
