@@ -20,7 +20,7 @@ Find a chance to work in an open and collaborative environment, receive and give
 
 
 
-  <i>Let's connect and chat! Open to anything under the sun.</i>
+  <i align="center">Let's connect and chat! Open to anything under the sun.</i>
 
   <p align="center">
     <a href="https://twitter.com/AhmedAlalmi95" alt="Twitter"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/twitter.png" height="30" width="30"></a>     
