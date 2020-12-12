@@ -18,7 +18,7 @@ Find a chance to work in an open and collaborative environment, receive and give
 ![focus](https://img.shields.io/badge/focus-Frontend-brightgreen)
 ![living](https://img.shields.io/badge/living-Palestine-3c9)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedalmi95)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ahmedalmi95&show_icons=true&theme=radical)
 
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
